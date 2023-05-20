@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @spencergrantkyle a professional accountant with a passion for technology
 - 👀 I’m interested in: Finance, Blockchain and Artificial intelligence
-- 🌱 I’m currently learning Alteryx, PowerBI, Python and Solidity 
-- 💞️ I’m looking to collaborate on blockchain, data analysis and AI projects
+- 🌱 I’m currently learning Alteryx, PowerBI, Python and the use of AI
+- 💞️ I’m looking to collaborate on blockchain, financial data analysis (BI) and AI projects
 - 📫 How to reach me -> https://www.linkedin.com/in/spencer-kyle-174559148/
 
 <!---
